@@ -18,7 +18,7 @@ int main(){
         cout << "-1\n" ;
         else
         {
-            cout << sum/n;
+            cout << sum/n << endl;
         }
     }
     return 0;
